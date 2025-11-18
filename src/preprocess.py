@@ -70,6 +70,12 @@ def negation_count(tokens: list) -> int:
     return sum(1 for t in tokens if t.lower() in NEGATIONS)
 
 
+def type_token_ratio(tokens: list) -> float:
+    if not tokens:
+        return 0.0
+    return len(set(tokens)) / len(tokens)
+
+
 def preprocess_dataframe(df: pd.DataFrame, text_col: str = "review",
                          label_col: str = "sentiment",
                          keep_punct: bool = True,
@@ -108,6 +114,7 @@ def preprocess_dataframe(df: pd.DataFrame, text_col: str = "review",
         avg_wlen = np.mean([len(t) for t in tokens]) if tokens else 0.0
         punc_cnt = punctuation_count(text_raw)
         neg_cnt = negation_count(tokens)
+        ttr = type_token_ratio(tokens)
 
         rec = {
             "id": i,
@@ -119,6 +126,7 @@ def preprocess_dataframe(df: pd.DataFrame, text_col: str = "review",
             "avg_word_len": float(avg_wlen),
             "punct_count": int(punc_cnt),
             "negation_count": int(neg_cnt),
+            "ttr": float(ttr),
             "label": label
         }
         records.append(rec)

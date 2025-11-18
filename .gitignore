@@ -1,5 +1,6 @@
 # Large data files
 data/*.csv
+!data/processed_sample.csv
 data/processed/
 data/raw/
 
@@ -29,5 +30,6 @@ ENV/
 Thumbs.db
 
 # Results and outputs
-results/
+results/*.npy
+results/*.pkl
 *.log
