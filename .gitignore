@@ -31,5 +31,8 @@ Thumbs.db
 
 # Results and outputs
 results/*.npy
-results/*.pkl
 *.log
+
+# Models
+models/*.pkl
+!models/.gitkeep
