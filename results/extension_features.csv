@@ -1,0 +1,4 @@
+emotion_joy,emotion_anger,emotion_sadness,emotion_fear,emotion_surprise,polarity_positive,polarity_negative,polarity_ratio,intensity_modifiers,pronoun_personal,pronoun_demonstrative,pronoun_relative,pronoun_reflexive,pronoun_density,pronoun_noun_distance,first_sent_salience,last_sent_salience,max_sentiment_position,sent_length_variance,num_sentences,discourse_contrast,discourse_cause,discourse_addition,discourse_temporal,discourse_example,content_word_density,content_word_diversity,function_word_ratio
+0,0,0,0,0,1,0,1.0,0,2,2,1,0,0.15625,8.0,1.0,0.53125,0.0,9.0,2,0,0,0,0,0,0.46875,1.0,0.53125
+0,0,0,0,0,0,0,0.0,0,1,1,0,0,0.058823529411764705,2.5,1.0,0.0,0.0,0.0,1,0,0,0,0,0,0.47058823529411764,1.0,0.5294117647058824
+1,0,0,0,0,3,0,3.0,0,1,1,0,0,0.09523809523809523,4.0,1.0,0.3333333333333333,0.3333333333333333,2.25,2,0,0,0,0,0,0.47619047619047616,0.9,0.5238095238095238

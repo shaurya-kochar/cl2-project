@@ -137,6 +137,24 @@ This project includes several creative analyses beyond baseline classification:
 3. **Adversarial Testing**: Manual perturbations to test model fragility
 4. **Phenomenon Partitions**: Performance on negation-heavy, hedging, long/short reviews
 5. **Document Structure Signals**: First-sentence sentiment and discourse markers
+6. **Extension Features (Optional)**: 28 additional features across:
+   - **P13: Enhanced Sentiment Analysis** - Emotion detection, polarity ratios, intensity modifiers
+   - **Anaphora Resolution** - Pronoun patterns and referential distance
+   - **RST-inspired Discourse** - Sentence salience and discourse connectives
+   - **P14: Semantic Density** - Content word analysis (lightweight alternative to embeddings)
+
+See `docs/EXTENSIONS.md` for detailed documentation.
+
+### Using Extension Features
+
+```bash
+# Extract extension features
+python src/extensions.py --input data/processed.csv --output results/extension_features.csv
+
+# Run experiments with extensions
+python src/features.py --input data/processed.csv --extensions
+python src/experiments.py --matrix results/experiment_matrix.csv --use-extensions
+```
 
 ## Report
 

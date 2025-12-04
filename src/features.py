@@ -208,7 +208,7 @@ class FeatureExtractor:
         return self
 
 
-def extract_all_features(df, extractor, include_tfidf=True):
+def extract_all_features(df, extractor, include_tfidf=True, include_extensions=False):
     feature_dfs = []
     
     if include_tfidf:
@@ -234,6 +234,14 @@ def extract_all_features(df, extractor, include_tfidf=True):
     disc_df = extractor.extract_discourse_features(df['tokens'])
     feature_dfs.append(disc_df)
     
+    if include_extensions:
+        try:
+            from extensions import extract_all_extension_features
+            ext_df = extract_all_extension_features(df, extractor.lexicon)
+            feature_dfs.append(ext_df)
+        except ImportError:
+            print("Warning: extensions module not found, skipping extension features")
+    
     result = pd.concat(feature_dfs, axis=1)
     return result
 
@@ -247,6 +255,7 @@ if __name__ == "__main__":
     parser.add_argument("--vectorizer-out", default="models/tfidf_vectorizer.pkl")
     parser.add_argument("--max-features", type=int, default=20000)
     parser.add_argument("--ngram", type=str, default="1,1")
+    parser.add_argument("--extensions", action="store_true", help="Include extension features (P13-P14)")
     args = parser.parse_args()
     
     print(f"Loading data from {args.input}...")
@@ -259,7 +268,7 @@ if __name__ == "__main__":
     extractor.fit_tfidf(df['text_clean'])
     
     print("Extracting all features...")
-    features = extract_all_features(df, extractor, include_tfidf=False)
+    features = extract_all_features(df, extractor, include_tfidf=False, include_extensions=args.extensions)
     
     print("\nFeature Summary:")
     summary = features.describe().T
