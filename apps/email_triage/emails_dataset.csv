@@ -1,0 +1,601 @@
+email_text,category,urgency,tone
+My Physics assignment submission failed. Please accept late submission.,Assignment,Medium,Polite
+There's an error in my fee receipt. Please correct it.,Finance/Fee,Low,Polite
+Can I audit DS instead of credit? Please advise.,Academic/Course,Medium,Polite
+I'm confused about problem 4 in DBMS assignment. Please clarify.,Assignment,Low,Polite
+I can't access Moodle. Getting server error repeatedly.,Technical,High,Angry
+Can I audit OS instead of credit? Please advise.,Academic/Course,Medium,Polite
+I want to drop COA. What's the procedure?,Academic/Course,High,Polite
+Can I audit DS instead of credit? Please advise.,Academic/Course,Medium,Polite
+Mess timings don't work with my lab schedule. Can this be changed?,Mess,Critical,Angry
+I got 25 in DBMS midsem but my answers were correct. Please recheck.,Marks/Reeval,Medium,Polite
+My room AC is not working for 3 days. This is very urgent.,Hostel,Critical,Angry
+I lost my ID card. How do I get a duplicate?,General,High,Polite
+What are the library timings during exams?,General,Medium,Polite
+I can't access Moodle. Getting server error repeatedly.,Technical,Medium,Neutral
+Can I audit DS instead of credit? Please advise.,Academic/Course,Low,Polite
+I need transcript copies for MS application. What's the process?,Certificate,Medium,Neutral
+How long does it take to get the degree certificate?,Certificate,Critical,Confused
+How long does it take to get the degree certificate?,Certificate,High,Frustrated
+I haven't received my scholarship yet. When will it be credited?,Finance/Fee,Critical,Polite
+Can I pay my hostel fee in installments? I'm facing financial issues.,Finance/Fee,Critical,Frustrated
+The food quality in mess is terrible. We need better options.,Mess,Medium,Angry
+My DBMS assignment submission failed. Please accept late submission.,Assignment,High,Polite
+I can't access Moodle. Getting server error repeatedly.,Technical,Low,Confused
+Mess timings don't work with my lab schedule. Can this be changed?,Mess,Medium,Appreciative
+There's an error in my AI grade calculation. Please verify.,Marks/Reeval,Medium,Polite
+How long does it take to get the degree certificate?,Certificate,Medium,Angry
+Can I change my room? My roommate is very noisy.,Hostel,Low,Confused
+Can I pay my hostel fee in installments? I'm facing financial issues.,Finance/Fee,High,Angry
+What are the library timings during exams?,General,Medium,Appreciative
+What are the library timings during exams?,General,Low,Confused
+I need a bonafide certificate urgently for visa application.,Certificate,Critical,Angry
+There's an error in my Maths grade calculation. Please verify.,Marks/Reeval,High,Polite
+I can't access Moodle. Getting server error repeatedly.,Technical,Medium,Angry
+My attendance is not updated for OS. Kindly update it ASAP.,Attendance,Critical,Frustrated
+The food quality in mess is terrible. We need better options.,Mess,High,Polite
+My marks for Physics assignment are very low. Can I get a re-evaluation?,Marks/Reeval,High,Polite
+I want to drop COA. What's the procedure?,Academic/Course,Medium,Confused
+I can't access Moodle. Getting server error repeatedly.,Technical,Critical,Polite
+What are the library timings during exams?,General,Medium,Confused
+"Dear Sir, I need attendance condonation for DS. I was sick for 2 weeks.",Attendance,Medium,Confused
+There's a water leakage in room 1. Please send maintenance.,Hostel,High,Polite
+I need transcript copies for MS application. What's the process?,Certificate,High,Frustrated
+I want to drop DBMS. What's the procedure?,Academic/Course,High,Appreciative
+I'm confused about problem 3 in AI assignment. Please clarify.,Assignment,Medium,Polite
+I'm very sick and need 3 days medical leave for Physics.,Medical,Medium,Angry
+I need transcript copies for MS application. What's the process?,Certificate,Critical,Neutral
+The CN prerequisites are not clear. Can you clarify?,Academic/Course,Medium,Polite
+There's an error in my fee receipt. Please correct it.,Finance/Fee,Critical,Polite
+Can I change my room? My roommate is very noisy.,Hostel,Critical,Polite
+My campus login credentials are not working. Please reset.,Technical,High,Polite
+Where is the admin office located?,General,High,Appreciative
+Mess timings don't work with my lab schedule. Can this be changed?,Mess,Low,Angry
+I got 25 in ML midsem but my answers were correct. Please recheck.,Marks/Reeval,Medium,Polite
+Where is the admin office located?,General,Medium,Neutral
+I'm confused about problem 5 in AI assignment. Please clarify.,Assignment,High,Polite
+What are the library timings during exams?,General,High,Confused
+I haven't received my scholarship yet. When will it be credited?,Finance/Fee,High,Confused
+My DS assignment submission failed. Please accept late submission.,Assignment,Medium,Polite
+How long does it take to get the degree certificate?,Certificate,Low,Polite
+My room AC is not working for 3 days. This is very urgent.,Hostel,Critical,Angry
+My marks for DS assignment are very low. Can I get a re-evaluation?,Marks/Reeval,Low,Neutral
+My room AC is not working for 3 days. This is very urgent.,Hostel,Critical,Angry
+There's an error in my CN grade calculation. Please verify.,Marks/Reeval,Low,Polite
+Can I pay my hostel fee in installments? I'm facing financial issues.,Finance/Fee,Critical,Frustrated
+My campus login credentials are not working. Please reset.,Technical,Low,Polite
+I have food allergies. Can I get special meal arrangements?,Mess,High,Confused
+I want to drop DBMS. What's the procedure?,Academic/Course,Critical,Frustrated
+My marks for Maths assignment are very low. Can I get a re-evaluation?,Marks/Reeval,Low,Neutral
+Where is the admin office located?,General,Critical,Appreciative
+I'm very sick and need 3 days medical leave for CN.,Medical,High,Frustrated
+There's an error in my fee receipt. Please correct it.,Finance/Fee,Critical,Polite
+"Hi, my attendance for Maths is showing 64% but I attended all classes. Please check.",Attendance,Medium,Polite
+Can I change my room? My roommate is very noisy.,Hostel,High,Confused
+My attendance is not updated for ML. Kindly update it ASAP.,Attendance,Critical,Angry
+There's an error in my fee receipt. Please correct it.,Finance/Fee,Medium,Polite
+I haven't received my scholarship yet. When will it be credited?,Finance/Fee,Low,Appreciative
+I got 18 in DBMS midsem but my answers were correct. Please recheck.,Marks/Reeval,Critical,Polite
+The Physics assignment deadline is too tight. Can we get an extension?,Assignment,Low,Confused
+"Hi, my attendance for OS is showing 61% but I attended all classes. Please check.",Attendance,Low,Polite
+Mess timings don't work with my lab schedule. Can this be changed?,Mess,Low,Angry
+The ML assignment deadline is too tight. Can we get an extension?,Assignment,High,Polite
+The DS assignment deadline is too tight. Can we get an extension?,Assignment,Medium,Neutral
+I lost my ID card. How do I get a duplicate?,General,Critical,Appreciative
+I haven't received my scholarship yet. When will it be credited?,Finance/Fee,Medium,Angry
+WiFi is not working in my hostel for 2 days. Very frustrated!,Technical,Low,Angry
+I got 20 in Physics midsem but my answers were correct. Please recheck.,Marks/Reeval,Low,Polite
+There's an error in my fee receipt. Please correct it.,Finance/Fee,Critical,Polite
+WiFi is not working in my hostel for 2 days. Very frustrated!,Technical,High,Confused
+Can I change my room? My roommate is very noisy.,Hostel,Medium,Angry
+Mess timings don't work with my lab schedule. Can this be changed?,Mess,Medium,Neutral
+There's an error in my fee receipt. Please correct it.,Finance/Fee,Critical,Polite
+Mess timings don't work with my lab schedule. Can this be changed?,Mess,High,Confused
+My campus login credentials are not working. Please reset.,Technical,Low,Polite
+There's an error in my OS grade calculation. Please verify.,Marks/Reeval,Low,Polite
+I need transcript copies for MS application. What's the process?,Certificate,Critical,Frustrated
+"Hi, my attendance for COA is showing 70% but I attended all classes. Please check.",Attendance,High,Polite
+The food quality in mess is terrible. We need better options.,Mess,Medium,Angry
+Can I audit DBMS instead of credit? Please advise.,Academic/Course,Medium,Polite
+My campus login credentials are not working. Please reset.,Technical,Low,Polite
+I need attendance exemption due to dengue. Attaching medical reports.,Medical,Medium,Angry
+My campus login credentials are not working. Please reset.,Technical,Low,Polite
+I need transcript copies for MS application. What's the process?,Certificate,Medium,Neutral
+I haven't received my scholarship yet. When will it be credited?,Finance/Fee,Critical,Frustrated
+Can I change my room? My roommate is very noisy.,Hostel,Critical,Neutral
+My attendance is not updated for ML. Kindly update it ASAP.,Attendance,Critical,Frustrated
+Can you approve my medical certificate? I was hospitalized last week.,Medical,Low,Frustrated
+Can I pay my hostel fee in installments? I'm facing financial issues.,Finance/Fee,High,Appreciative
+My attendance is not updated for ML. Kindly update it ASAP.,Attendance,Critical,Frustrated
+I'm very sick and need 3 days medical leave for Physics.,Medical,Medium,Neutral
+The Physics prerequisites are not clear. Can you clarify?,Academic/Course,High,Appreciative
+My attendance is not updated for Maths. Kindly update it ASAP.,Attendance,Critical,Angry
+The DBMS assignment deadline is too tight. Can we get an extension?,Assignment,High,Polite
+Where is the admin office located?,General,High,Polite
+My campus login credentials are not working. Please reset.,Technical,Low,Polite
+I can't access Moodle. Getting server error repeatedly.,Technical,Low,Appreciative
+My attendance is not updated for DBMS. Kindly update it ASAP.,Attendance,Critical,Frustrated
+There's an error in my fee receipt. Please correct it.,Finance/Fee,High,Polite
+I lost my ID card. How do I get a duplicate?,General,Low,Polite
+I got 15 in AI midsem but my answers were correct. Please recheck.,Marks/Reeval,Low,Polite
+Can you approve my medical certificate? I was hospitalized last week.,Medical,Critical,Neutral
+"Hi, my attendance for OS is showing 67% but I attended all classes. Please check.",Attendance,High,Polite
+How long does it take to get the degree certificate?,Certificate,Critical,Confused
+The food quality in mess is terrible. We need better options.,Mess,Medium,Neutral
+How long does it take to get the degree certificate?,Certificate,Medium,Polite
+Can I pay my hostel fee in installments? I'm facing financial issues.,Finance/Fee,Critical,Confused
+"Hi, my attendance for CN is showing 61% but I attended all classes. Please check.",Attendance,Low,Polite
+Can I audit DBMS instead of credit? Please advise.,Academic/Course,Medium,Polite
+I want to drop ML. What's the procedure?,Academic/Course,Critical,Confused
+My attendance is not updated for ML. Kindly update it ASAP.,Attendance,Critical,Frustrated
+There's an error in my Physics grade calculation. Please verify.,Marks/Reeval,Medium,Polite
+My room AC is not working for 3 days. This is very urgent.,Hostel,Critical,Angry
+I lost my ID card. How do I get a duplicate?,General,Critical,Neutral
+What are the library timings during exams?,General,High,Frustrated
+My DBMS assignment submission failed. Please accept late submission.,Assignment,Critical,Polite
+My DBMS assignment submission failed. Please accept late submission.,Assignment,Low,Polite
+I can't access Moodle. Getting server error repeatedly.,Technical,Low,Frustrated
+Can you approve my medical certificate? I was hospitalized last week.,Medical,Critical,Polite
+I haven't received my scholarship yet. When will it be credited?,Finance/Fee,Medium,Appreciative
+I got 16 in DBMS midsem but my answers were correct. Please recheck.,Marks/Reeval,Medium,Polite
+I'm confused about problem 4 in DS assignment. Please clarify.,Assignment,Critical,Polite
+WiFi is not working in my hostel for 2 days. Very frustrated!,Technical,Low,Polite
+WiFi is not working in my hostel for 2 days. Very frustrated!,Technical,Medium,Polite
+The food quality in mess is terrible. We need better options.,Mess,Critical,Frustrated
+WiFi is not working in my hostel for 2 days. Very frustrated!,Technical,High,Angry
+Where is the admin office located?,General,Low,Polite
+Can I audit Physics instead of credit? Please advise.,Academic/Course,Medium,Polite
+I can't access Moodle. Getting server error repeatedly.,Technical,Medium,Confused
+There's an error in my fee receipt. Please correct it.,Finance/Fee,High,Polite
+There's a water leakage in room 3. Please send maintenance.,Hostel,Critical,Polite
+I need a bonafide certificate urgently for visa application.,Certificate,Critical,Angry
+I have food allergies. Can I get special meal arrangements?,Mess,Low,Polite
+How long does it take to get the degree certificate?,Certificate,Critical,Angry
+WiFi is not working in my hostel for 2 days. Very frustrated!,Technical,Critical,Neutral
+The food quality in mess is terrible. We need better options.,Mess,Critical,Frustrated
+WiFi is not working in my hostel for 2 days. Very frustrated!,Technical,Medium,Polite
+My room AC is not working for 3 days. This is very urgent.,Hostel,Critical,Angry
+My attendance is not updated for DBMS. Kindly update it ASAP.,Attendance,Critical,Angry
+I lost my ID card. How do I get a duplicate?,General,Medium,Angry
+The food quality in mess is terrible. We need better options.,Mess,Low,Neutral
+There's an error in my fee receipt. Please correct it.,Finance/Fee,Medium,Polite
+How long does it take to get the degree certificate?,Certificate,Low,Appreciative
+My room AC is not working for 3 days. This is very urgent.,Hostel,Critical,Frustrated
+There's a water leakage in room 1. Please send maintenance.,Hostel,Critical,Polite
+How long does it take to get the degree certificate?,Certificate,Medium,Confused
+Mess timings don't work with my lab schedule. Can this be changed?,Mess,Medium,Neutral
+I got 11 in COA midsem but my answers were correct. Please recheck.,Marks/Reeval,Low,Polite
+"Hi, my attendance for ML is showing 72% but I attended all classes. Please check.",Attendance,Critical,Polite
+Can I audit DS instead of credit? Please advise.,Academic/Course,Low,Polite
+I got 16 in Physics midsem but my answers were correct. Please recheck.,Marks/Reeval,Low,Polite
+I'm confused about problem 2 in CN assignment. Please clarify.,Assignment,Critical,Polite
+My COA assignment submission failed. Please accept late submission.,Assignment,Critical,Polite
+My marks for Maths assignment are very low. Can I get a re-evaluation?,Marks/Reeval,Low,Frustrated
+WiFi is not working in my hostel for 2 days. Very frustrated!,Technical,Medium,Angry
+I can't access Moodle. Getting server error repeatedly.,Technical,Low,Angry
+I'm confused about problem 4 in COA assignment. Please clarify.,Assignment,Critical,Polite
+The DBMS assignment deadline is too tight. Can we get an extension?,Assignment,Low,Confused
+My marks for CN assignment are very low. Can I get a re-evaluation?,Marks/Reeval,High,Appreciative
+The OS prerequisites are not clear. Can you clarify?,Academic/Course,High,Confused
+Can I change my room? My roommate is very noisy.,Hostel,Low,Polite
+I can't access Moodle. Getting server error repeatedly.,Technical,Critical,Appreciative
+I need a bonafide certificate urgently for visa application.,Certificate,Critical,Angry
+Can you approve my medical certificate? I was hospitalized last week.,Medical,Critical,Frustrated
+How long does it take to get the degree certificate?,Certificate,Low,Frustrated
+I need attendance exemption due to dengue. Attaching medical reports.,Medical,Medium,Angry
+Mess timings don't work with my lab schedule. Can this be changed?,Mess,High,Confused
+I need transcript copies for MS application. What's the process?,Certificate,Low,Angry
+I need transcript copies for MS application. What's the process?,Certificate,High,Polite
+There's an error in my fee receipt. Please correct it.,Finance/Fee,Critical,Polite
+How long does it take to get the degree certificate?,Certificate,High,Angry
+What are the library timings during exams?,General,High,Confused
+I need transcript copies for MS application. What's the process?,Certificate,Critical,Frustrated
+Where is the admin office located?,General,Critical,Appreciative
+How long does it take to get the degree certificate?,Certificate,Critical,Angry
+What are the library timings during exams?,General,Critical,Polite
+I'm very sick and need 3 days medical leave for DS.,Medical,High,Frustrated
+What are the library timings during exams?,General,High,Appreciative
+There's an error in my ML grade calculation. Please verify.,Marks/Reeval,Medium,Polite
+"Hi, my attendance for DBMS is showing 73% but I attended all classes. Please check.",Attendance,Low,Polite
+My attendance is not updated for Physics. Kindly update it ASAP.,Attendance,Critical,Frustrated
+My campus login credentials are not working. Please reset.,Technical,Medium,Polite
+I need attendance exemption due to dengue. Attaching medical reports.,Medical,Low,Confused
+I lost my ID card. How do I get a duplicate?,General,Low,Neutral
+Where is the admin office located?,General,Low,Frustrated
+My attendance is not updated for Physics. Kindly update it ASAP.,Attendance,Critical,Frustrated
+"Hi, my attendance for Physics is showing 70% but I attended all classes. Please check.",Attendance,Low,Polite
+There's a water leakage in room 2. Please send maintenance.,Hostel,Low,Polite
+My campus login credentials are not working. Please reset.,Technical,Critical,Polite
+What are the library timings during exams?,General,Critical,Neutral
+My attendance is not updated for Physics. Kindly update it ASAP.,Attendance,Critical,Frustrated
+Can I audit ML instead of credit? Please advise.,Academic/Course,Low,Polite
+Mess timings don't work with my lab schedule. Can this be changed?,Mess,Medium,Confused
+I lost my ID card. How do I get a duplicate?,General,High,Neutral
+What are the library timings during exams?,General,Medium,Neutral
+There's an error in my fee receipt. Please correct it.,Finance/Fee,Medium,Polite
+"Hi, my attendance for DS is showing 74% but I attended all classes. Please check.",Attendance,Critical,Polite
+I got 22 in Physics midsem but my answers were correct. Please recheck.,Marks/Reeval,Critical,Polite
+I haven't received my scholarship yet. When will it be credited?,Finance/Fee,Medium,Angry
+I'm confused about problem 2 in ML assignment. Please clarify.,Assignment,Medium,Polite
+My OS assignment submission failed. Please accept late submission.,Assignment,High,Polite
+I need transcript copies for MS application. What's the process?,Certificate,High,Polite
+WiFi is not working in my hostel for 2 days. Very frustrated!,Technical,Medium,Appreciative
+I got 20 in DS midsem but my answers were correct. Please recheck.,Marks/Reeval,Critical,Polite
+There's a water leakage in room 3. Please send maintenance.,Hostel,Medium,Polite
+I have food allergies. Can I get special meal arrangements?,Mess,Low,Confused
+I got 22 in ML midsem but my answers were correct. Please recheck.,Marks/Reeval,Critical,Polite
+WiFi is not working in my hostel for 2 days. Very frustrated!,Technical,High,Polite
+There's an error in my ML grade calculation. Please verify.,Marks/Reeval,High,Polite
+I need transcript copies for MS application. What's the process?,Certificate,Medium,Neutral
+I'm very sick and need 3 days medical leave for DBMS.,Medical,Critical,Neutral
+I haven't received my scholarship yet. When will it be credited?,Finance/Fee,Medium,Appreciative
+I haven't received my scholarship yet. When will it be credited?,Finance/Fee,Low,Angry
+My room AC is not working for 3 days. This is very urgent.,Hostel,Critical,Frustrated
+My DBMS assignment submission failed. Please accept late submission.,Assignment,Low,Polite
+"Hi, my attendance for Maths is showing 65% but I attended all classes. Please check.",Attendance,High,Polite
+The CN assignment deadline is too tight. Can we get an extension?,Assignment,Medium,Appreciative
+My attendance is not updated for OS. Kindly update it ASAP.,Attendance,Critical,Frustrated
+Can I pay my hostel fee in installments? I'm facing financial issues.,Finance/Fee,High,Neutral
+My ML assignment submission failed. Please accept late submission.,Assignment,Medium,Polite
+"Dear Sir, I need attendance condonation for DS. I was sick for 2 weeks.",Attendance,Low,Polite
+I'm very sick and need 3 days medical leave for AI.,Medical,High,Angry
+"Dear Sir, I need attendance condonation for COA. I was sick for 2 weeks.",Attendance,Low,Polite
+I got 23 in OS midsem but my answers were correct. Please recheck.,Marks/Reeval,Critical,Polite
+Can I change my room? My roommate is very noisy.,Hostel,High,Neutral
+I'm confused about problem 5 in COA assignment. Please clarify.,Assignment,Critical,Polite
+I'm confused about problem 1 in COA assignment. Please clarify.,Assignment,Critical,Polite
+My marks for Maths assignment are very low. Can I get a re-evaluation?,Marks/Reeval,Critical,Confused
+My campus login credentials are not working. Please reset.,Technical,Low,Polite
+Mess timings don't work with my lab schedule. Can this be changed?,Mess,High,Appreciative
+My DS assignment submission failed. Please accept late submission.,Assignment,Critical,Polite
+I need transcript copies for MS application. What's the process?,Certificate,Critical,Polite
+I'm very sick and need 3 days medical leave for DS.,Medical,Critical,Angry
+I got 18 in OS midsem but my answers were correct. Please recheck.,Marks/Reeval,Medium,Polite
+"Hi, my attendance for DS is showing 66% but I attended all classes. Please check.",Attendance,Low,Polite
+Mess timings don't work with my lab schedule. Can this be changed?,Mess,High,Angry
+Where is the admin office located?,General,High,Polite
+I need attendance exemption due to dengue. Attaching medical reports.,Medical,Medium,Frustrated
+Can you approve my medical certificate? I was hospitalized last week.,Medical,Low,Appreciative
+I lost my ID card. How do I get a duplicate?,General,Medium,Frustrated
+Mess timings don't work with my lab schedule. Can this be changed?,Mess,Low,Polite
+I need a bonafide certificate urgently for visa application.,Certificate,Critical,Angry
+My room AC is not working for 3 days. This is very urgent.,Hostel,Critical,Angry
+The DBMS prerequisites are not clear. Can you clarify?,Academic/Course,High,Confused
+Can I pay my hostel fee in installments? I'm facing financial issues.,Finance/Fee,Medium,Confused
+Where is the admin office located?,General,Medium,Frustrated
+WiFi is not working in my hostel for 2 days. Very frustrated!,Technical,High,Neutral
+I haven't received my scholarship yet. When will it be credited?,Finance/Fee,High,Angry
+"Hi, my attendance for DBMS is showing 61% but I attended all classes. Please check.",Attendance,Critical,Polite
+The food quality in mess is terrible. We need better options.,Mess,Critical,Appreciative
+Mess timings don't work with my lab schedule. Can this be changed?,Mess,High,Appreciative
+The food quality in mess is terrible. We need better options.,Mess,Medium,Appreciative
+"Dear Sir, I need attendance condonation for CN. I was sick for 2 weeks.",Attendance,Low,Angry
+There's a water leakage in room 4. Please send maintenance.,Hostel,Critical,Polite
+I can't access Moodle. Getting server error repeatedly.,Technical,Low,Appreciative
+There's a water leakage in room 4. Please send maintenance.,Hostel,High,Polite
+How long does it take to get the degree certificate?,Certificate,Low,Neutral
+The COA assignment deadline is too tight. Can we get an extension?,Assignment,High,Polite
+Can I change my room? My roommate is very noisy.,Hostel,Critical,Confused
+My marks for Maths assignment are very low. Can I get a re-evaluation?,Marks/Reeval,High,Appreciative
+My marks for CN assignment are very low. Can I get a re-evaluation?,Marks/Reeval,Medium,Frustrated
+My room AC is not working for 3 days. This is very urgent.,Hostel,Critical,Angry
+The OS assignment deadline is too tight. Can we get an extension?,Assignment,Low,Angry
+Mess timings don't work with my lab schedule. Can this be changed?,Mess,Low,Confused
+The CN prerequisites are not clear. Can you clarify?,Academic/Course,High,Neutral
+WiFi is not working in my hostel for 2 days. Very frustrated!,Technical,Medium,Angry
+I need transcript copies for MS application. What's the process?,Certificate,Low,Angry
+Can I pay my hostel fee in installments? I'm facing financial issues.,Finance/Fee,Low,Angry
+"Dear Sir, I need attendance condonation for CN. I was sick for 2 weeks.",Attendance,Medium,Angry
+I haven't received my scholarship yet. When will it be credited?,Finance/Fee,Low,Frustrated
+I'm very sick and need 3 days medical leave for DS.,Medical,Medium,Confused
+I'm confused about problem 3 in Physics assignment. Please clarify.,Assignment,High,Polite
+I haven't received my scholarship yet. When will it be credited?,Finance/Fee,High,Angry
+Where is the admin office located?,General,High,Appreciative
+There's an error in my fee receipt. Please correct it.,Finance/Fee,Critical,Polite
+My marks for ML assignment are very low. Can I get a re-evaluation?,Marks/Reeval,Low,Polite
+I haven't received my scholarship yet. When will it be credited?,Finance/Fee,Low,Polite
+My campus login credentials are not working. Please reset.,Technical,Critical,Polite
+Can you approve my medical certificate? I was hospitalized last week.,Medical,Low,Confused
+There's an error in my OS grade calculation. Please verify.,Marks/Reeval,Medium,Polite
+My marks for ML assignment are very low. Can I get a re-evaluation?,Marks/Reeval,High,Appreciative
+My room AC is not working for 3 days. This is very urgent.,Hostel,Critical,Angry
+Where is the admin office located?,General,Critical,Frustrated
+I need a bonafide certificate urgently for visa application.,Certificate,Critical,Angry
+I can't access Moodle. Getting server error repeatedly.,Technical,Low,Polite
+I can't access Moodle. Getting server error repeatedly.,Technical,High,Neutral
+My marks for Maths assignment are very low. Can I get a re-evaluation?,Marks/Reeval,High,Polite
+What are the library timings during exams?,General,Critical,Angry
+"Hi, my attendance for COA is showing 70% but I attended all classes. Please check.",Attendance,Critical,Polite
+"Dear Sir, I need attendance condonation for ML. I was sick for 2 weeks.",Attendance,High,Confused
+I need transcript copies for MS application. What's the process?,Certificate,Low,Angry
+I lost my ID card. How do I get a duplicate?,General,Low,Confused
+I haven't received my scholarship yet. When will it be credited?,Finance/Fee,Low,Appreciative
+I need attendance exemption due to dengue. Attaching medical reports.,Medical,High,Angry
+Mess timings don't work with my lab schedule. Can this be changed?,Mess,Critical,Confused
+The food quality in mess is terrible. We need better options.,Mess,High,Angry
+I got 19 in CN midsem but my answers were correct. Please recheck.,Marks/Reeval,High,Polite
+I have food allergies. Can I get special meal arrangements?,Mess,Medium,Neutral
+"Dear Sir, I need attendance condonation for CN. I was sick for 2 weeks.",Attendance,Low,Confused
+I want to drop DBMS. What's the procedure?,Academic/Course,Critical,Frustrated
+"Hi, my attendance for Physics is showing 60% but I attended all classes. Please check.",Attendance,High,Polite
+The food quality in mess is terrible. We need better options.,Mess,Low,Angry
+I can't access Moodle. Getting server error repeatedly.,Technical,High,Polite
+There's an error in my fee receipt. Please correct it.,Finance/Fee,Low,Polite
+I have food allergies. Can I get special meal arrangements?,Mess,High,Appreciative
+What are the library timings during exams?,General,High,Angry
+"Dear Sir, I need attendance condonation for DBMS. I was sick for 2 weeks.",Attendance,Critical,Angry
+I got 20 in Physics midsem but my answers were correct. Please recheck.,Marks/Reeval,High,Polite
+"Dear Sir, I need attendance condonation for AI. I was sick for 2 weeks.",Attendance,Medium,Frustrated
+What are the library timings during exams?,General,High,Appreciative
+I'm confused about problem 4 in AI assignment. Please clarify.,Assignment,Critical,Polite
+My room AC is not working for 3 days. This is very urgent.,Hostel,Critical,Angry
+I have food allergies. Can I get special meal arrangements?,Mess,High,Appreciative
+What are the library timings during exams?,General,Low,Neutral
+There's a water leakage in room 5. Please send maintenance.,Hostel,Low,Polite
+My attendance is not updated for OS. Kindly update it ASAP.,Attendance,Critical,Angry
+My campus login credentials are not working. Please reset.,Technical,Medium,Polite
+The food quality in mess is terrible. We need better options.,Mess,Low,Appreciative
+I have food allergies. Can I get special meal arrangements?,Mess,High,Neutral
+I haven't received my scholarship yet. When will it be credited?,Finance/Fee,High,Appreciative
+My marks for Maths assignment are very low. Can I get a re-evaluation?,Marks/Reeval,Medium,Appreciative
+There's an error in my fee receipt. Please correct it.,Finance/Fee,Medium,Polite
+There's an error in my AI grade calculation. Please verify.,Marks/Reeval,High,Polite
+"Hi, my attendance for COA is showing 68% but I attended all classes. Please check.",Attendance,Low,Polite
+My OS assignment submission failed. Please accept late submission.,Assignment,Low,Polite
+Can I change my room? My roommate is very noisy.,Hostel,Low,Neutral
+My campus login credentials are not working. Please reset.,Technical,Medium,Polite
+Can I change my room? My roommate is very noisy.,Hostel,High,Frustrated
+WiFi is not working in my hostel for 2 days. Very frustrated!,Technical,Medium,Confused
+My room AC is not working for 3 days. This is very urgent.,Hostel,Critical,Frustrated
+"Dear Sir, I need attendance condonation for AI. I was sick for 2 weeks.",Attendance,Medium,Appreciative
+I haven't received my scholarship yet. When will it be credited?,Finance/Fee,Low,Polite
+My room AC is not working for 3 days. This is very urgent.,Hostel,Critical,Angry
+"Dear Sir, I need attendance condonation for OS. I was sick for 2 weeks.",Attendance,Low,Confused
+The OS assignment deadline is too tight. Can we get an extension?,Assignment,Low,Frustrated
+My room AC is not working for 3 days. This is very urgent.,Hostel,Critical,Angry
+WiFi is not working in my hostel for 2 days. Very frustrated!,Technical,Critical,Angry
+Can I pay my hostel fee in installments? I'm facing financial issues.,Finance/Fee,Critical,Frustrated
+How long does it take to get the degree certificate?,Certificate,High,Neutral
+My room AC is not working for 3 days. This is very urgent.,Hostel,Critical,Frustrated
+There's an error in my fee receipt. Please correct it.,Finance/Fee,Medium,Polite
+I want to drop OS. What's the procedure?,Academic/Course,Low,Appreciative
+My room AC is not working for 3 days. This is very urgent.,Hostel,Critical,Frustrated
+I need attendance exemption due to dengue. Attaching medical reports.,Medical,Low,Appreciative
+I can't access Moodle. Getting server error repeatedly.,Technical,High,Angry
+I need transcript copies for MS application. What's the process?,Certificate,Low,Polite
+What are the library timings during exams?,General,Low,Neutral
+I need attendance exemption due to dengue. Attaching medical reports.,Medical,Low,Neutral
+What are the library timings during exams?,General,Low,Appreciative
+My marks for DBMS assignment are very low. Can I get a re-evaluation?,Marks/Reeval,High,Appreciative
+I need transcript copies for MS application. What's the process?,Certificate,Critical,Neutral
+"Dear Sir, I need attendance condonation for ML. I was sick for 2 weeks.",Attendance,Critical,Appreciative
+I need attendance exemption due to dengue. Attaching medical reports.,Medical,Critical,Polite
+How long does it take to get the degree certificate?,Certificate,High,Confused
+The food quality in mess is terrible. We need better options.,Mess,Medium,Confused
+How long does it take to get the degree certificate?,Certificate,Medium,Neutral
+I haven't received my scholarship yet. When will it be credited?,Finance/Fee,Medium,Frustrated
+I want to drop AI. What's the procedure?,Academic/Course,High,Angry
+My room AC is not working for 3 days. This is very urgent.,Hostel,Critical,Angry
+The CN assignment deadline is too tight. Can we get an extension?,Assignment,High,Frustrated
+"Dear Sir, I need attendance condonation for DS. I was sick for 2 weeks.",Attendance,Medium,Polite
+I need attendance exemption due to dengue. Attaching medical reports.,Medical,Critical,Appreciative
+Can I audit CN instead of credit? Please advise.,Academic/Course,High,Polite
+I have food allergies. Can I get special meal arrangements?,Mess,Critical,Confused
+My marks for ML assignment are very low. Can I get a re-evaluation?,Marks/Reeval,High,Angry
+I can't access Moodle. Getting server error repeatedly.,Technical,High,Frustrated
+My DS assignment submission failed. Please accept late submission.,Assignment,Critical,Polite
+Can I pay my hostel fee in installments? I'm facing financial issues.,Finance/Fee,Critical,Appreciative
+I need a bonafide certificate urgently for visa application.,Certificate,Critical,Angry
+I can't access Moodle. Getting server error repeatedly.,Technical,Low,Neutral
+Mess timings don't work with my lab schedule. Can this be changed?,Mess,Critical,Appreciative
+There's a water leakage in room 3. Please send maintenance.,Hostel,Critical,Polite
+Can I audit DS instead of credit? Please advise.,Academic/Course,Critical,Polite
+What are the library timings during exams?,General,High,Neutral
+I need transcript copies for MS application. What's the process?,Certificate,Low,Confused
+My campus login credentials are not working. Please reset.,Technical,Low,Polite
+I need attendance exemption due to dengue. Attaching medical reports.,Medical,High,Polite
+I can't access Moodle. Getting server error repeatedly.,Technical,Critical,Appreciative
+I got 15 in Maths midsem but my answers were correct. Please recheck.,Marks/Reeval,Critical,Polite
+My marks for DBMS assignment are very low. Can I get a re-evaluation?,Marks/Reeval,High,Polite
+My room AC is not working for 3 days. This is very urgent.,Hostel,Critical,Frustrated
+Can you approve my medical certificate? I was hospitalized last week.,Medical,High,Frustrated
+My marks for DS assignment are very low. Can I get a re-evaluation?,Marks/Reeval,High,Appreciative
+Can I pay my hostel fee in installments? I'm facing financial issues.,Finance/Fee,Medium,Frustrated
+"Dear Sir, I need attendance condonation for ML. I was sick for 2 weeks.",Attendance,High,Appreciative
+"Dear Sir, I need attendance condonation for Maths. I was sick for 2 weeks.",Attendance,Critical,Frustrated
+My room AC is not working for 3 days. This is very urgent.,Hostel,Critical,Frustrated
+Where is the admin office located?,General,High,Neutral
+I want to drop COA. What's the procedure?,Academic/Course,Critical,Polite
+I have food allergies. Can I get special meal arrangements?,Mess,Critical,Confused
+I got 19 in CN midsem but my answers were correct. Please recheck.,Marks/Reeval,Critical,Polite
+Mess timings don't work with my lab schedule. Can this be changed?,Mess,High,Angry
+Can I audit Maths instead of credit? Please advise.,Academic/Course,Low,Polite
+I want to drop CN. What's the procedure?,Academic/Course,Critical,Appreciative
+My campus login credentials are not working. Please reset.,Technical,Low,Polite
+I'm very sick and need 3 days medical leave for ML.,Medical,Critical,Confused
+How long does it take to get the degree certificate?,Certificate,Critical,Neutral
+WiFi is not working in my hostel for 2 days. Very frustrated!,Technical,Medium,Frustrated
+I'm very sick and need 3 days medical leave for AI.,Medical,Critical,Appreciative
+I got 17 in OS midsem but my answers were correct. Please recheck.,Marks/Reeval,High,Polite
+WiFi is not working in my hostel for 2 days. Very frustrated!,Technical,Medium,Frustrated
+I can't access Moodle. Getting server error repeatedly.,Technical,Critical,Polite
+I need transcript copies for MS application. What's the process?,Certificate,Medium,Frustrated
+I want to drop DBMS. What's the procedure?,Academic/Course,High,Confused
+The food quality in mess is terrible. We need better options.,Mess,High,Frustrated
+Can I pay my hostel fee in installments? I'm facing financial issues.,Finance/Fee,High,Angry
+I have food allergies. Can I get special meal arrangements?,Mess,Low,Angry
+I need transcript copies for MS application. What's the process?,Certificate,High,Neutral
+The DBMS assignment deadline is too tight. Can we get an extension?,Assignment,Medium,Angry
+Can I change my room? My roommate is very noisy.,Hostel,High,Polite
+My marks for AI assignment are very low. Can I get a re-evaluation?,Marks/Reeval,High,Neutral
+The food quality in mess is terrible. We need better options.,Mess,High,Polite
+What are the library timings during exams?,General,Low,Frustrated
+I lost my ID card. How do I get a duplicate?,General,Critical,Neutral
+I haven't received my scholarship yet. When will it be credited?,Finance/Fee,Low,Polite
+"Dear Sir, I need attendance condonation for DS. I was sick for 2 weeks.",Attendance,Low,Polite
+I need attendance exemption due to dengue. Attaching medical reports.,Medical,Critical,Frustrated
+"Hi, my attendance for Maths is showing 60% but I attended all classes. Please check.",Attendance,Critical,Polite
+My campus login credentials are not working. Please reset.,Technical,Low,Polite
+I'm confused about problem 1 in DBMS assignment. Please clarify.,Assignment,High,Polite
+My attendance is not updated for DBMS. Kindly update it ASAP.,Attendance,Critical,Frustrated
+I need transcript copies for MS application. What's the process?,Certificate,Critical,Neutral
+I need attendance exemption due to dengue. Attaching medical reports.,Medical,Low,Appreciative
+My DBMS assignment submission failed. Please accept late submission.,Assignment,Medium,Polite
+Mess timings don't work with my lab schedule. Can this be changed?,Mess,Low,Polite
+The Maths assignment deadline is too tight. Can we get an extension?,Assignment,Critical,Appreciative
+I'm very sick and need 3 days medical leave for Physics.,Medical,Critical,Neutral
+I need attendance exemption due to dengue. Attaching medical reports.,Medical,Medium,Angry
+I need attendance exemption due to dengue. Attaching medical reports.,Medical,Low,Appreciative
+What are the library timings during exams?,General,Medium,Confused
+The Physics assignment deadline is too tight. Can we get an extension?,Assignment,Critical,Neutral
+I lost my ID card. How do I get a duplicate?,General,Medium,Angry
+What are the library timings during exams?,General,High,Neutral
+Can I pay my hostel fee in installments? I'm facing financial issues.,Finance/Fee,Critical,Angry
+WiFi is not working in my hostel for 2 days. Very frustrated!,Technical,Medium,Frustrated
+I lost my ID card. How do I get a duplicate?,General,Critical,Appreciative
+Where is the admin office located?,General,Low,Neutral
+I have food allergies. Can I get special meal arrangements?,Mess,Critical,Polite
+I want to drop AI. What's the procedure?,Academic/Course,Low,Frustrated
+My AI assignment submission failed. Please accept late submission.,Assignment,High,Polite
+I'm very sick and need 3 days medical leave for CN.,Medical,Critical,Angry
+Can you approve my medical certificate? I was hospitalized last week.,Medical,High,Neutral
+I can't access Moodle. Getting server error repeatedly.,Technical,High,Polite
+My campus login credentials are not working. Please reset.,Technical,Critical,Polite
+I lost my ID card. How do I get a duplicate?,General,Critical,Angry
+The food quality in mess is terrible. We need better options.,Mess,Critical,Frustrated
+My attendance is not updated for DS. Kindly update it ASAP.,Attendance,Critical,Angry
+The food quality in mess is terrible. We need better options.,Mess,Critical,Appreciative
+My marks for OS assignment are very low. Can I get a re-evaluation?,Marks/Reeval,High,Appreciative
+I need a bonafide certificate urgently for visa application.,Certificate,Critical,Angry
+WiFi is not working in my hostel for 2 days. Very frustrated!,Technical,Low,Frustrated
+I got 16 in DS midsem but my answers were correct. Please recheck.,Marks/Reeval,Low,Polite
+"Dear Sir, I need attendance condonation for DS. I was sick for 2 weeks.",Attendance,Low,Angry
+The food quality in mess is terrible. We need better options.,Mess,Medium,Angry
+Can I audit CN instead of credit? Please advise.,Academic/Course,Low,Polite
+The food quality in mess is terrible. We need better options.,Mess,Low,Frustrated
+Can I audit Maths instead of credit? Please advise.,Academic/Course,Low,Polite
+What are the library timings during exams?,General,Critical,Neutral
+I lost my ID card. How do I get a duplicate?,General,Low,Angry
+I'm very sick and need 3 days medical leave for COA.,Medical,Critical,Confused
+My DS assignment submission failed. Please accept late submission.,Assignment,High,Polite
+The food quality in mess is terrible. We need better options.,Mess,Medium,Frustrated
+Mess timings don't work with my lab schedule. Can this be changed?,Mess,Low,Angry
+WiFi is not working in my hostel for 2 days. Very frustrated!,Technical,Critical,Angry
+I want to drop COA. What's the procedure?,Academic/Course,Critical,Appreciative
+"Dear Sir, I need attendance condonation for COA. I was sick for 2 weeks.",Attendance,Medium,Confused
+I can't access Moodle. Getting server error repeatedly.,Technical,Low,Neutral
+I haven't received my scholarship yet. When will it be credited?,Finance/Fee,Critical,Neutral
+My marks for DBMS assignment are very low. Can I get a re-evaluation?,Marks/Reeval,Critical,Frustrated
+My attendance is not updated for DBMS. Kindly update it ASAP.,Attendance,Critical,Angry
+I'm confused about problem 1 in COA assignment. Please clarify.,Assignment,Low,Polite
+There's an error in my fee receipt. Please correct it.,Finance/Fee,Low,Polite
+WiFi is not working in my hostel for 2 days. Very frustrated!,Technical,Low,Appreciative
+My DS assignment submission failed. Please accept late submission.,Assignment,High,Polite
+My Maths assignment submission failed. Please accept late submission.,Assignment,Critical,Polite
+I want to drop COA. What's the procedure?,Academic/Course,Critical,Neutral
+There's an error in my fee receipt. Please correct it.,Finance/Fee,High,Polite
+There's an error in my OS grade calculation. Please verify.,Marks/Reeval,High,Polite
+My room AC is not working for 3 days. This is very urgent.,Hostel,Critical,Frustrated
+I'm confused about problem 4 in CN assignment. Please clarify.,Assignment,Low,Polite
+I lost my ID card. How do I get a duplicate?,General,Critical,Neutral
+The DS prerequisites are not clear. Can you clarify?,Academic/Course,High,Angry
+Can you approve my medical certificate? I was hospitalized last week.,Medical,Critical,Neutral
+I lost my ID card. How do I get a duplicate?,General,High,Neutral
+There's an error in my fee receipt. Please correct it.,Finance/Fee,High,Polite
+I can't access Moodle. Getting server error repeatedly.,Technical,High,Neutral
+The food quality in mess is terrible. We need better options.,Mess,Critical,Neutral
+Can I change my room? My roommate is very noisy.,Hostel,Low,Polite
+Can I audit ML instead of credit? Please advise.,Academic/Course,Low,Polite
+The DBMS assignment deadline is too tight. Can we get an extension?,Assignment,Low,Appreciative
+There's an error in my DS grade calculation. Please verify.,Marks/Reeval,Medium,Polite
+I need transcript copies for MS application. What's the process?,Certificate,Low,Frustrated
+"Dear Sir, I need attendance condonation for OS. I was sick for 2 weeks.",Attendance,Critical,Angry
+I need transcript copies for MS application. What's the process?,Certificate,Critical,Appreciative
+Can I change my room? My roommate is very noisy.,Hostel,Medium,Confused
+My attendance is not updated for AI. Kindly update it ASAP.,Attendance,Critical,Angry
+Can I change my room? My roommate is very noisy.,Hostel,Low,Neutral
+My attendance is not updated for Physics. Kindly update it ASAP.,Attendance,Critical,Frustrated
+I lost my ID card. How do I get a duplicate?,General,Low,Neutral
+Where is the admin office located?,General,Low,Angry
+Can I change my room? My roommate is very noisy.,Hostel,Medium,Confused
+I need a bonafide certificate urgently for visa application.,Certificate,Critical,Frustrated
+Can I pay my hostel fee in installments? I'm facing financial issues.,Finance/Fee,High,Neutral
+Can I pay my hostel fee in installments? I'm facing financial issues.,Finance/Fee,Medium,Confused
+I need a bonafide certificate urgently for visa application.,Certificate,Critical,Frustrated
+I need transcript copies for MS application. What's the process?,Certificate,Critical,Neutral
+I need attendance exemption due to dengue. Attaching medical reports.,Medical,Low,Appreciative
+My campus login credentials are not working. Please reset.,Technical,Medium,Polite
+There's an error in my DS grade calculation. Please verify.,Marks/Reeval,Low,Polite
+Can I pay my hostel fee in installments? I'm facing financial issues.,Finance/Fee,Critical,Angry
+Can I pay my hostel fee in installments? I'm facing financial issues.,Finance/Fee,Medium,Neutral
+Can I audit CN instead of credit? Please advise.,Academic/Course,High,Polite
+I'm confused about problem 3 in DBMS assignment. Please clarify.,Assignment,High,Polite
+The OS prerequisites are not clear. Can you clarify?,Academic/Course,Critical,Polite
+I'm confused about problem 2 in Maths assignment. Please clarify.,Assignment,Medium,Polite
+"Hi, my attendance for Physics is showing 66% but I attended all classes. Please check.",Attendance,Medium,Polite
+I got 23 in DBMS midsem but my answers were correct. Please recheck.,Marks/Reeval,Medium,Polite
+There's a water leakage in room 3. Please send maintenance.,Hostel,Critical,Polite
+"Dear Sir, I need attendance condonation for DS. I was sick for 2 weeks.",Attendance,Critical,Frustrated
+I got 16 in DS midsem but my answers were correct. Please recheck.,Marks/Reeval,High,Polite
+My attendance is not updated for OS. Kindly update it ASAP.,Attendance,Critical,Angry
+I can't access Moodle. Getting server error repeatedly.,Technical,Low,Frustrated
+I haven't received my scholarship yet. When will it be credited?,Finance/Fee,Medium,Appreciative
+Can you approve my medical certificate? I was hospitalized last week.,Medical,High,Angry
+I need attendance exemption due to dengue. Attaching medical reports.,Medical,Critical,Angry
+I can't access Moodle. Getting server error repeatedly.,Technical,Medium,Angry
+My campus login credentials are not working. Please reset.,Technical,High,Polite
+There's a water leakage in room 1. Please send maintenance.,Hostel,High,Polite
+What are the library timings during exams?,General,High,Neutral
+The food quality in mess is terrible. We need better options.,Mess,Low,Polite
+"Hi, my attendance for OS is showing 68% but I attended all classes. Please check.",Attendance,Medium,Polite
+There's an error in my fee receipt. Please correct it.,Finance/Fee,Medium,Polite
+My marks for DS assignment are very low. Can I get a re-evaluation?,Marks/Reeval,Low,Frustrated
+I need attendance exemption due to dengue. Attaching medical reports.,Medical,Critical,Angry
+My DBMS assignment submission failed. Please accept late submission.,Assignment,Medium,Polite
+I lost my ID card. How do I get a duplicate?,General,High,Confused
+Can I change my room? My roommate is very noisy.,Hostel,Critical,Neutral
+Can you approve my medical certificate? I was hospitalized last week.,Medical,Low,Polite
+There's a water leakage in room 5. Please send maintenance.,Hostel,High,Polite
+The food quality in mess is terrible. We need better options.,Mess,Critical,Angry
+Can I pay my hostel fee in installments? I'm facing financial issues.,Finance/Fee,Medium,Frustrated
+Can I change my room? My roommate is very noisy.,Hostel,Critical,Angry
+My marks for COA assignment are very low. Can I get a re-evaluation?,Marks/Reeval,Low,Polite
+Can I pay my hostel fee in installments? I'm facing financial issues.,Finance/Fee,Low,Confused
+My attendance is not updated for DS. Kindly update it ASAP.,Attendance,Critical,Angry
+I need a bonafide certificate urgently for visa application.,Certificate,Critical,Frustrated
+WiFi is not working in my hostel for 2 days. Very frustrated!,Technical,High,Neutral
+I need a bonafide certificate urgently for visa application.,Certificate,Critical,Angry
+"Hi, my attendance for CN is showing 64% but I attended all classes. Please check.",Attendance,Critical,Polite
+How long does it take to get the degree certificate?,Certificate,Critical,Polite
+I'm very sick and need 3 days medical leave for ML.,Medical,Critical,Angry
+Where is the admin office located?,General,Low,Neutral
+"Dear Sir, I need attendance condonation for Physics. I was sick for 2 weeks.",Attendance,Medium,Frustrated
+Can you approve my medical certificate? I was hospitalized last week.,Medical,Low,Angry
+I need attendance exemption due to dengue. Attaching medical reports.,Medical,High,Angry
+I want to drop ML. What's the procedure?,Academic/Course,Critical,Angry
+The DBMS prerequisites are not clear. Can you clarify?,Academic/Course,Medium,Confused
+My room AC is not working for 3 days. This is very urgent.,Hostel,Critical,Angry
+I'm confused about problem 2 in DS assignment. Please clarify.,Assignment,Low,Polite
+I'm confused about problem 1 in Maths assignment. Please clarify.,Assignment,High,Polite
+I need attendance exemption due to dengue. Attaching medical reports.,Medical,Low,Angry
+I need transcript copies for MS application. What's the process?,Certificate,Critical,Frustrated
+I have food allergies. Can I get special meal arrangements?,Mess,High,Polite
+Mess timings don't work with my lab schedule. Can this be changed?,Mess,Low,Appreciative
+There's a water leakage in room 3. Please send maintenance.,Hostel,Medium,Polite
+My AI assignment submission failed. Please accept late submission.,Assignment,Medium,Polite
+WiFi is not working in my hostel for 2 days. Very frustrated!,Technical,High,Frustrated
+I can't access Moodle. Getting server error repeatedly.,Technical,High,Polite
+I lost my ID card. How do I get a duplicate?,General,Low,Frustrated
+How long does it take to get the degree certificate?,Certificate,Critical,Polite
+Can I pay my hostel fee in installments? I'm facing financial issues.,Finance/Fee,Low,Confused
+I can't access Moodle. Getting server error repeatedly.,Technical,Low,Angry
+My attendance is not updated for DS. Kindly update it ASAP.,Attendance,Critical,Frustrated
+I need transcript copies for MS application. What's the process?,Certificate,Low,Appreciative
+My marks for DBMS assignment are very low. Can I get a re-evaluation?,Marks/Reeval,Low,Confused
+How long does it take to get the degree certificate?,Certificate,Medium,Appreciative
+Can you approve my medical certificate? I was hospitalized last week.,Medical,Critical,Confused
+I lost my ID card. How do I get a duplicate?,General,Critical,Angry
+WiFi is not working in my hostel for 2 days. Very frustrated!,Technical,Medium,Appreciative
+I have food allergies. Can I get special meal arrangements?,Mess,Medium,Neutral
+I lost my ID card. How do I get a duplicate?,General,Critical,Polite
+I want to drop CN. What's the procedure?,Academic/Course,Low,Angry

@@ -1,0 +1,35 @@
+======================================================================
+COURSE REVIEW ANALYZER - ANALYSIS REPORT
+======================================================================
+
+Total Reviews: 2000
+
+SENTIMENT DISTRIBUTION
+----------------------------------------------------------------------
+  Strongly Negative        :  400 ( 20.0%)
+  Highly Positive          :  400 ( 20.0%)
+  Negative                 :  400 ( 20.0%)
+  Neutral                  :  400 ( 20.0%)
+  Positive                 :  400 ( 20.0%)
+
+EMOTION DISTRIBUTION
+----------------------------------------------------------------------
+  Disappointment           :  756 ( 37.8%)
+  Satisfaction             :  756 ( 37.8%)
+  Frustration              :  755 ( 37.8%)
+  Appreciation             :  754 ( 37.7%)
+  Anger                    :  372 ( 18.6%)
+  Excitement               :  371 ( 18.6%)
+
+MODEL PERFORMANCE
+----------------------------------------------------------------------
+  Sentiment LR Accuracy:    100.0%
+  Sentiment NB Accuracy:    100.0%
+  Emotion LR Accuracy:       91.8%
+  Emotion LR F1-Score:       97.0%
+
+REVIEW STATISTICS
+----------------------------------------------------------------------
+  Average Review Length:    12.1 words
+
+======================================================================
