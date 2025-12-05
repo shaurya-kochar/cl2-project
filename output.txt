@@ -1,0 +1,486 @@
+Loading Data... 
+
+Extracting Features... 
+
+Results: 
+#####################################################################################################
+
+Evaluating Features: TF-IDF= True, Co-occurrence= True, Word Length= True, Sentence Length= True 
+
+Naive Bayes Model 
+
+Accuracy: 0.8305
+Precision: 0.8149971596288582
+Recall: 0.8570290720828355
+F1 Score: 0.835484810249442
+Confusion Matrix:
+╒══════╤══════╕
+│ 4001 │  977 │
+├──────┼──────┤
+│  718 │ 4304 │
+╘══════╧══════╛
+Time Taken: 0.05800151824951172 seconds
+
+Logistic Regression Model 
+
+Accuracy: 0.8411
+Precision: 0.8358442574838584
+Recall: 0.8506571087216248
+F1 Score: 0.8431856311062864
+Confusion Matrix:
+╒══════╤══════╕
+│ 4139 │  839 │
+├──────┼──────┤
+│  750 │ 4272 │
+╘══════╧══════╛
+Time Taken: 272.1317937374115 seconds
+
+#####################################################################################################
+
+Evaluating Features: TF-IDF= True, Co-occurrence= True, Word Length= True, Sentence Length= False 
+
+Naive Bayes Model 
+
+Accuracy: 0.838
+Precision: 0.8310626702997275
+Recall: 0.8502588610115492
+F1 Score: 0.8405511811023622
+Confusion Matrix:
+╒══════╤══════╕
+│ 4110 │  868 │
+├──────┼──────┤
+│  752 │ 4270 │
+╘══════╧══════╛
+Time Taken: 0.05940055847167969 seconds
+
+Logistic Regression Model 
+
+Accuracy: 0.8587
+Precision: 0.860251547215013
+Recall: 0.8580246913580247
+F1 Score: 0.8591366763034592
+Confusion Matrix:
+╒══════╤══════╕
+│ 4278 │  700 │
+├──────┼──────┤
+│  713 │ 4309 │
+╘══════╧══════╛
+Time Taken: 270.32098293304443 seconds
+
+#####################################################################################################
+
+Evaluating Features: TF-IDF= True, Co-occurrence= True, Word Length= False, Sentence Length= True 
+
+Naive Bayes Model 
+
+Accuracy: 0.8309
+Precision: 0.8162141636605278
+Recall: 0.8560334528076463
+F1 Score: 0.8356497230051512
+Confusion Matrix:
+╒══════╤══════╕
+│ 4010 │  968 │
+├──────┼──────┤
+│  723 │ 4299 │
+╘══════╧══════╛
+Time Taken: 0.05628681182861328 seconds
+
+Logistic Regression Model 
+
+Accuracy: 0.8408
+Precision: 0.8379976350019709
+Recall: 0.8466746316208682
+F1 Score: 0.8423137876386688
+Confusion Matrix:
+╒══════╤══════╕
+│ 4156 │  822 │
+├──────┼──────┤
+│  770 │ 4252 │
+╘══════╧══════╛
+Time Taken: 274.6271696090698 seconds
+
+#####################################################################################################
+
+Evaluating Features: TF-IDF= True, Co-occurrence= True, Word Length= False, Sentence Length= False 
+
+Naive Bayes Model 
+
+Accuracy: 0.8379
+Precision: 0.8318048780487804
+Recall: 0.8488649940262843
+F1 Score: 0.8402483492657927
+Confusion Matrix:
+╒══════╤══════╕
+│ 4116 │  862 │
+├──────┼──────┤
+│  759 │ 4263 │
+╘══════╧══════╛
+Time Taken: 0.05125880241394043 seconds
+
+Logistic Regression Model 
+
+Accuracy: 0.8593
+Precision: 0.8614277144571085
+Recall: 0.8578255675029869
+F1 Score: 0.8596228674049686
+Confusion Matrix:
+╒══════╤══════╕
+│ 4285 │  693 │
+├──────┼──────┤
+│  714 │ 4308 │
+╘══════╧══════╛
+Time Taken: 261.600613117218 seconds
+
+#####################################################################################################
+
+Evaluating Features: TF-IDF= True, Co-occurrence= False, Word Length= True, Sentence Length= True 
+
+Naive Bayes Model 
+
+Accuracy: 0.8281
+Precision: 0.82644791460763
+Recall: 0.832536837913182
+F1 Score: 0.8294812022616803
+Confusion Matrix:
+╒══════╤══════╕
+│ 4100 │  878 │
+├──────┼──────┤
+│  841 │ 4181 │
+╘══════╧══════╛
+Time Taken: 0.02956390380859375 seconds
+
+Logistic Regression Model 
+
+Accuracy: 0.7236
+Precision: 0.7183752417794971
+Recall: 0.7395459976105138
+F1 Score: 0.728806907378336
+Confusion Matrix:
+╒══════╤══════╕
+│ 3522 │ 1456 │
+├──────┼──────┤
+│ 1308 │ 3714 │
+╘══════╧══════╛
+Time Taken: 169.31530857086182 seconds
+
+#####################################################################################################
+
+Evaluating Features: TF-IDF= True, Co-occurrence= False, Word Length= True, Sentence Length= False 
+
+Naive Bayes Model 
+
+Accuracy: 0.8531
+Precision: 0.8514342235410485
+Recall: 0.8570290720828355
+F1 Score: 0.8542224868512454
+Confusion Matrix:
+╒══════╤══════╕
+│ 4227 │  751 │
+├──────┼──────┤
+│  718 │ 4304 │
+╘══════╧══════╛
+Time Taken: 0.04083514213562012 seconds
+
+Logistic Regression Model 
+
+Accuracy: 0.8914
+Precision: 0.8893945389790265
+Recall: 0.8950617283950617
+F1 Score: 0.8922191345772131
+Confusion Matrix:
+╒══════╤══════╕
+│ 4419 │  559 │
+├──────┼──────┤
+│  527 │ 4495 │
+╘══════╧══════╛
+Time Taken: 9.90135145187378 seconds
+
+#####################################################################################################
+
+Evaluating Features: TF-IDF= True, Co-occurrence= False, Word Length= False, Sentence Length= True 
+
+Naive Bayes Model 
+
+Accuracy: 0.8334
+Precision: 0.8295365278868814
+Recall: 0.8410991636798089
+F1 Score: 0.8352778327071386
+Confusion Matrix:
+╒══════╤══════╕
+│ 4110 │  868 │
+├──────┼──────┤
+│  798 │ 4224 │
+╘══════╧══════╛
+Time Taken: 0.03502058982849121 seconds
+
+Logistic Regression Model 
+
+Accuracy: 0.7268
+Precision: 0.7433064173395665
+Recall: 0.6965352449223416
+F1 Score: 0.7191611842105263
+Confusion Matrix:
+╒══════╤══════╕
+│ 3770 │ 1208 │
+├──────┼──────┤
+│ 1524 │ 3498 │
+╘══════╧══════╛
+Time Taken: 167.11736154556274 seconds
+
+#####################################################################################################
+
+Evaluating Features: TF-IDF= True, Co-occurrence= False, Word Length= False, Sentence Length= False 
+
+Naive Bayes Model 
+
+Accuracy: 0.8528
+Precision: 0.8514851485148515
+Recall: 0.8562325766626842
+F1 Score: 0.8538522637013504
+Confusion Matrix:
+╒══════╤══════╕
+│ 4228 │  750 │
+├──────┼──────┤
+│  722 │ 4300 │
+╘══════╧══════╛
+Time Taken: 0.037004709243774414 seconds
+
+Logistic Regression Model 
+
+Accuracy: 0.8916
+Precision: 0.889592402057776
+Recall: 0.8952608522500995
+F1 Score: 0.8924176260420801
+Confusion Matrix:
+╒══════╤══════╕
+│ 4420 │  558 │
+├──────┼──────┤
+│  526 │ 4496 │
+╘══════╧══════╛
+Time Taken: 1.6799213886260986 seconds
+
+#####################################################################################################
+
+Evaluating Features: TF-IDF= False, Co-occurrence= True, Word Length= True, Sentence Length= True 
+
+Naive Bayes Model 
+
+Accuracy: 0.82
+Precision: 0.8038476046774802
+Recall: 0.8486658701712465
+F1 Score: 0.8256489732661759
+Confusion Matrix:
+╒══════╤══════╕
+│ 3938 │ 1040 │
+├──────┼──────┤
+│  760 │ 4262 │
+╘══════╧══════╛
+Time Taken: 0.025606870651245117 seconds
+
+Logistic Regression Model 
+
+Accuracy: 0.8375
+Precision: 0.83180308654034
+Recall: 0.8478693747510951
+F1 Score: 0.8397593925648359
+Confusion Matrix:
+╒══════╤══════╕
+│ 4117 │  861 │
+├──────┼──────┤
+│  764 │ 4258 │
+╘══════╧══════╛
+Time Taken: 121.64092183113098 seconds
+
+#####################################################################################################
+
+Evaluating Features: TF-IDF= False, Co-occurrence= True, Word Length= True, Sentence Length= False 
+
+Naive Bayes Model 
+
+Accuracy: 0.8279
+Precision: 0.8217976213686878
+Recall: 0.8393070489844683
+F1 Score: 0.8304600531967294
+Confusion Matrix:
+╒══════╤══════╕
+│ 4064 │  914 │
+├──────┼──────┤
+│  807 │ 4215 │
+╘══════╧══════╛
+Time Taken: 0.02446889877319336 seconds
+
+Logistic Regression Model 
+
+Accuracy: 0.8506
+Precision: 0.8506958250497018
+Recall: 0.8520509757068897
+F1 Score: 0.8513728611221646
+Confusion Matrix:
+╒══════╤══════╕
+│ 4227 │  751 │
+├──────┼──────┤
+│  743 │ 4279 │
+╘══════╧══════╛
+Time Taken: 121.67766523361206 seconds
+
+#####################################################################################################
+
+Evaluating Features: TF-IDF= False, Co-occurrence= True, Word Length= False, Sentence Length= True 
+
+Naive Bayes Model 
+
+Accuracy: 0.8206
+Precision: 0.8051039697542534
+Recall: 0.848068498606133
+F1 Score: 0.8260279286268425
+Confusion Matrix:
+╒══════╤══════╕
+│ 3947 │ 1031 │
+├──────┼──────┤
+│  763 │ 4259 │
+╘══════╧══════╛
+Time Taken: 0.023639917373657227 seconds
+
+Logistic Regression Model 
+
+Accuracy: 0.8377
+Precision: 0.8336933045356372
+Recall: 0.8454798884906412
+F1 Score: 0.8395452298566486
+Confusion Matrix:
+╒══════╤══════╕
+│ 4131 │  847 │
+├──────┼──────┤
+│  776 │ 4246 │
+╘══════╧══════╛
+Time Taken: 120.27236557006836 seconds
+
+#####################################################################################################
+
+Evaluating Features: TF-IDF= False, Co-occurrence= True, Word Length= False, Sentence Length= False 
+
+Naive Bayes Model 
+
+Accuracy: 0.8276
+Precision: 0.8223221266614542
+Recall: 0.8377140581441657
+F1 Score: 0.8299467350562241
+Confusion Matrix:
+╒══════╤══════╕
+│ 4069 │  909 │
+├──────┼──────┤
+│  815 │ 4207 │
+╘══════╧══════╛
+Time Taken: 0.019775867462158203 seconds
+
+Logistic Regression Model 
+
+Accuracy: 0.8507
+Precision: 0.8507255018882925
+Recall: 0.8522500995619275
+F1 Score: 0.8514871182731522
+Confusion Matrix:
+╒══════╤══════╕
+│ 4227 │  751 │
+├──────┼──────┤
+│  742 │ 4280 │
+╘══════╧══════╛
+Time Taken: 119.60388994216919 seconds
+
+#####################################################################################################
+
+Evaluating Features: TF-IDF= False, Co-occurrence= False, Word Length= True, Sentence Length= True 
+
+Naive Bayes Model 
+
+Accuracy: 0.5213
+Precision: 0.5350851000298597
+Recall: 0.3568299482277977
+F1 Score: 0.4281447855692271
+Confusion Matrix:
+╒══════╤══════╕
+│ 3421 │ 1557 │
+├──────┼──────┤
+│ 3230 │ 1792 │
+╘══════╧══════╛
+Time Taken: 0.004515171051025391 seconds
+
+Logistic Regression Model 
+
+Accuracy: 0.519
+Precision: 0.5217659137577002
+Recall: 0.505973715651135
+F1 Score: 0.5137484836231297
+Confusion Matrix:
+╒══════╤══════╕
+│ 2649 │ 2329 │
+├──────┼──────┤
+│ 2481 │ 2541 │
+╘══════╧══════╛
+Time Taken: 0.18711400032043457 seconds
+
+#####################################################################################################
+
+Evaluating Features: TF-IDF= False, Co-occurrence= False, Word Length= True, Sentence Length= False 
+
+Naive Bayes Model 
+
+Accuracy: 0.4978
+Precision: 0.0
+Recall: 0.0
+F1 Score: nan
+Confusion Matrix:
+╒══════╤═══╕
+│ 4978 │ 0 │
+├──────┼───┤
+│ 5022 │ 0 │
+╘══════╧═══╛
+Time Taken: 0.005209922790527344 seconds
+
+Logistic Regression Model 
+
+Accuracy: 0.5322
+Precision: 0.5346076458752516
+Recall: 0.5290720828355236
+F1 Score: 0.5318254603682946
+Confusion Matrix:
+╒══════╤══════╕
+│ 2665 │ 2313 │
+├──────┼──────┤
+│ 2365 │ 2657 │
+╘══════╧══════╛
+Time Taken: 1.9142813682556152 seconds
+
+#####################################################################################################
+
+Evaluating Features: TF-IDF= False, Co-occurrence= False, Word Length= False, Sentence Length= True 
+
+Naive Bayes Model 
+
+Accuracy: 0.4978
+Precision: 0.0
+Recall: 0.0
+F1 Score: nan
+Confusion Matrix:
+╒══════╤═══╕
+│ 4978 │ 0 │
+├──────┼───┤
+│ 5022 │ 0 │
+╘══════╧═══╛
+Time Taken: 0.0036821365356445312 seconds
+
+Logistic Regression Model 
+
+Accuracy: 0.5022
+Precision: 0.5022
+Recall: 1.0
+F1 Score: 0.6686193582745307
+Confusion Matrix:
+╒═══╤══════╕
+│ 0 │ 4978 │
+├───┼──────┤
+│ 0 │ 5022 │
+╘═══╧══════╛
+Time Taken: 0.07163143157958984 seconds
+
+#####################################################################################################
