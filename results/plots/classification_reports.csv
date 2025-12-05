@@ -1,0 +1,13 @@
+Model,Class,Precision,Recall,F1-Score,Support
+Logistic Regression,negative,1.0,1.0,1.0,500.0
+Logistic Regression,positive,1.0,1.0,1.0,500.0
+Naive Bayes,negative,1.0,1.0,1.0,500.0
+Naive Bayes,positive,1.0,1.0,1.0,500.0
+SVM (Linear),negative,1.0,1.0,1.0,500.0
+SVM (Linear),positive,1.0,1.0,1.0,500.0
+Random Forest,negative,1.0,1.0,1.0,500.0
+Random Forest,positive,1.0,1.0,1.0,500.0
+Decision Tree,negative,1.0,1.0,1.0,500.0
+Decision Tree,positive,1.0,1.0,1.0,500.0
+KNN,negative,1.0,1.0,1.0,500.0
+KNN,positive,1.0,1.0,1.0,500.0
